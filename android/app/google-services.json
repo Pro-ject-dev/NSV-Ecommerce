@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6565935234",
+    "project_id": "nsv-rubber-stamps",
+    "storage_bucket": "nsv-rubber-stamps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6565935234:android:bee03d85636ba127f21c9b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6565935234-vth8lhm3ccp8koum5flslvqbn52ihf6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDutA5whulP_ckp2W6A7xmy8_I23saadQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6565935234-vth8lhm3ccp8koum5flslvqbn52ihf6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
